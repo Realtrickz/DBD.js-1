@@ -4,8 +4,9 @@
 ## Are you Familiar with BDFD aka Bot Designer for Discord?
 ### Then you can easily transfer your code into this Package with no issues!
 # Command Handlers 
-### To start, just do `node .`
-### Remember change `TOKEN` in `server.js`
+### To install, the package `npm install`
+## To start the Bot `node .`
+## Remember change `TOKEN` in `server.js`
 ### Example ⛏
 
 ```js
