@@ -20,5 +20,15 @@ bot.command({
 name: command.name,
 code: command.code
 })
+bot.status({
+ text: "Your Bot is ready!",
+ type: "PLAYING",
+ time: 12
+ })
+bot.status({
+ text: "!ping",
+ type: "PLAYING",
+ time: 12
+})
 } 
 }
